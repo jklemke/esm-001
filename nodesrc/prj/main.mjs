@@ -1,4 +1,4 @@
 
-import { greeting } from '../lib/hello.mjs';
+import { greeting } from '../../web/js/lib/hello.mjs';
 
-console.log(greeting('Sammy says hi from node'));
+console.log(greeting('nodesrc/main.mjs'));
