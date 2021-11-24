@@ -1,5 +1,5 @@
 
-import { greeting } from '../lib/hello.js';
+import { greeting } from '../lib/hello.mjs';
 
 const btn = document.getElementById("greetingBtn");
 btn.addEventListener('click', (ev,) => {
